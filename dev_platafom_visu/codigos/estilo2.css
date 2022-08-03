@@ -1,0 +1,46 @@
+#resultados{
+    
+    width: auto;
+    height:auto;
+    margin: auto;
+}
+
+#tabelinha{
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    padding-top: 10px;
+    margin: auto;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.6);
+ 
+}
+
+td{
+    padding:15px;
+    background-color:#ffffff;
+    margin: 0;
+    line-height: 10px;
+    }
+
+
+.LinhaTable{
+    background-color: #ffffff;
+    color: rgb(92, 92, 92);
+}
+.LinhaTable:hover{
+    transform: scale(1.1);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.6)
+   
+}
+
+.botaoMark{
+    border-style: solid;
+    border-color:grey;
+    border-radius: 50%;
+    box-shadow:0px 5px 16px rgb(99, 99, 99);
+}
+
+.botaoMark:hover{
+    cursor:pointer;
+    border-color: greenyellow;
+}
+
